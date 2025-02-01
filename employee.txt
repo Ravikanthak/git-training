@@ -1,8 +1,1 @@
-My Name is:Ravikantha Kumrasinghe
-
---------
-
-My Age is:
-
-
-My Hometown is:
+---
