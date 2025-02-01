@@ -1,8 +1,1 @@
-My Name is:Ravikantha Kumrasinghe
-
---------
-
-My Age is:
-
-
-Feature 2 Edit
+Feature 2
